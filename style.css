@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@600&display=swap');
+
+*{
+    font-family: 'Inter', sans-serif;
+    font-size: 18px;
+}
+
+.big-text {
+
+    font-size: 34px;
+    font-weight: 900;
+
+}
+
+.blue-text {
+    color: blue;
+}
+
+
+header {
+    text-align: center;
+}
+
+.objective {
+   
+    font-weight: 500;
+}
+
+.about-us {
+    font-size: 18px;
+    line-height: 30px;
+   
+}
+
+.blue-background {
+    color: white;
+    background-color: blue;
+   
+}
